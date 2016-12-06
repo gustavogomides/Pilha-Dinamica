@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1412109888 source:c:\users\gustavo-pc\desktop\pilhadinamica\mainpilhadinamica.c
+	<stdio.h>
+	"pilhadinamica.h"
+
+1412109901 c:\users\gustavo-pc\desktop\pilhadinamica\pilhadinamica.h
+
+1412110025 source:c:\users\gustavo-pc\desktop\pilhadinamica\pilhadinamica.c
+	<stdlib.h>
+	"pilhadinamica.h"
+
+1412111660 source:f:\estrutura de dados 1\pilhadinamica\mainpilhadinamica.c
+	<stdio.h>
+	"pilhadinamica.h"
+
+1412109902 f:\estrutura de dados 1\pilhadinamica\pilhadinamica.h
+
+1412110164 source:f:\estrutura de dados 1\pilhadinamica\pilhadinamica.c
+	<stdlib.h>
+	"pilhadinamica.h"
+
+1412111660 source:c:\users\gustavo-pc\documents\unifei\2º período\matérias\estrutura de dados 1\pilhadinamica\mainpilhadinamica.c
+	<stdio.h>
+	"pilhadinamica.h"
+
+1412109902 c:\users\gustavo-pc\documents\unifei\2º período\matérias\estrutura de dados 1\pilhadinamica\pilhadinamica.h
+
